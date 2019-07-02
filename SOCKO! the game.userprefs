@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Ninja.cs">
+    <Files>
+      <File FileName="Assets\Ninja.cs" Line="112" Column="24" />
+      <File FileName="Assets\CameraFollow.cs" Line="6" Column="1" />
+      <File FileName="Assets\ExplodingDummy.cs" Line="38" Column="48" />
+      <File FileName="Assets\Enemy.cs" Line="134" Column="20" />
+      <File FileName="Assets\Kunai.cs" Line="9" Column="2" />
+      <File FileName="Assets\Sword.cs" Line="9" Column="27" />
+      <File FileName="Assets\Powerup.cs" Line="9" Column="35" />
+      <File FileName="Assets\GameController.cs" Line="26" Column="89" />
+      <File FileName="Assets\Coin.cs" Line="32" Column="24" />
+      <File FileName="Assets\PointsSprite.cs" Line="9" Column="21" />
+      <File FileName="Assets\OpenDoor.cs" Line="29" Column="89" />
+      <File FileName="Assets\BonusController.cs" Line="85" Column="49" />
+      <File FileName="Assets\Intro.cs" Line="17" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
