@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 78bd7c1873c54ca4caee3877a9e33121
+timeCreated: 1495340291
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gamedings
+  fontNames:
+  - Gamedings
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
